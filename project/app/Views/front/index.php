@@ -235,292 +235,646 @@
 </section>
 <!-- How it Works end -->
 
-<!-- This Game start -->
-<section class="bet-this-game">
-	<div class="overlay pt-120 pb-120">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-8">
-					<div class="section-header text-center">
-						<h5 class="sub-title">Sports Escrow Bets Peer 2 Peer</h5>
-						<h2 class="title">Tournaments in This Game</h2>
-						<p>Use the power of Bitbetio Bets Fast, Anonymous, Secured, Automatic, Trustworthy</p>
-					</div>
-				</div>
-			</div>
-			<div class="row cus-mar">
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Arsenal</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-1.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division- Belarus</h6>
-							</div>
-							<div class="team-single">
-								<h4>Volna</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-2.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Apollon</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-3.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division (Cyprus)</h6>
-							</div>
-							<div class="team-single">
-								<h4>Paeek</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-4.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Raufoss</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-5.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division (Norway)</h6>
-							</div>
-							<div class="team-single">
-								<h4>Åsane</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-6.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Lida</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-6.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division (Cyprus)</h6>
-							</div>
-							<div class="team-single">
-								<h4>Paeek</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-7.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Sūduva</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-8.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division- Belarus</h6>
-							</div>
-							<div class="team-single">
-								<h4>Dainava</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-9.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="single-area">
-						<div class="head-area d-flex align-items-center">
-							<span class="mdr cmn-btn">Pick Winner</span>
-							<p>Mar 23, 2022,3:45PM EDT</p>
-						</div>
-						<div class="main-content">
-							<div class="team-single">
-								<h4>Eagle</h4>
-								<span class="mdr">Home</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-10.png" alt="image">
-								</div>
-							</div>
-							<div class="mid-area text-center">
-								<div class="countdown d-flex align-items-center justify-content-center">
-									<h4>
-										<span class="hours">00</span><span class="ref">h</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="minutes">00</span><span class="ref">m</span><span class="seperator">:</span>
-									</h4>
-									<h4>
-										<span class="seconds">00</span><span class="ref">s</span>
-									</h4>
-								</div>
-								<h6>Division- Belarus</h6>
-							</div>
-							<div class="team-single">
-								<h4>Paeek</h4>
-								<span class="mdr">Away</span>
-								<div class="img-area">
-									<img src="assets/backend/images/team-logo-11.png" alt="image">
-								</div>
-							</div>
-						</div>
-						<div class="bottom-item">
-							<button type="button" class="cmn-btn firstTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Eagle will win</button>
-							<button type="button" class="cmn-btn draw" data-bs-toggle="modal" data-bs-target="#betpop-up">Draw</button>
-							<button type="button" class="cmn-btn lastTeam" data-bs-toggle="modal" data-bs-target="#betpop-up">Paeek will win</button>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12 d-flex justify-content-center">
-					<div class="bottom-area mt-60">
-						<span class="btn-border">
-							<a href="soccer-bets-2.html" class="cmn-btn">Browse More</a>
-						</span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- Bet This Game end -->
+    <!-- Games section start -->
+    <section class="tournaments-section">
+        <div class="overlay pt-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-5">
+                        <div class="section-header text-center">
+                            <h5 class="sub-title">Grow your Income With Vedant Games</h5>
+                            <h2 class="title">Games</h2>
+                            <p>Compete with Vedant Games users to find the best bettor and win cash prizes.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <ul class="nav" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="cmn-btn active" id="ongoing-tab" data-bs-toggle="tab"
+                                data-bs-target="#ongoing" type="button" role="tab" aria-controls="ongoing"
+                                aria-selected="true">ongoing</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="cmn-btn" id="upcoming-tab" data-bs-toggle="tab" data-bs-target="#upcoming"
+                                type="button" role="tab" aria-controls="upcoming"
+                                aria-selected="false">upcoming</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="cmn-btn" id="past-tab" data-bs-toggle="tab" data-bs-target="#past"
+                                type="button" role="tab" aria-controls="past" aria-selected="false">past</button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="ongoing" role="tabpanel" aria-labelledby="ongoing-tab">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-1.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Rage Fan Challenge</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-2.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NBA Spotlight</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-3.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NFL Week 11</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-4.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Vedant Games Fall Classic</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-5.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-6.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week 11</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-60">
+                            <div class="col-lg-12 d-flex justify-content-center">
+                                <nav aria-label="Page navigation" class="d-flex justify-content-center">
+                                    <ul class="pagination justify-content-center align-items-center">
+                                        <li class="page-item">
+                                            <a class="page-btn previous" href="javascript:void(0)"
+                                                aria-label="Previous">
+                                                <img src="assets/backend/images/icon/arrow-left.png" alt="icon">
+                                            </a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">1</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr active"
+                                                href="javascript:void(0)">2</a></li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">3</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">4</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a class="page-btn next" href="javascript:void(0)" aria-label="Next">
+                                                <img src="assets/backend/images/icon/arrow-right.png" alt="icon">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="upcoming" role="tabpanel" aria-labelledby="upcoming-tab">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-4.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Vedant Games Fall Classic</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-2.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NBA Spotlight</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-6.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-1.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Rage Fan Challenge</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-3.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NFL Week 11</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-5.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-60">
+                            <div class="col-lg-12 d-flex justify-content-center">
+                                <nav aria-label="Page navigation" class="d-flex justify-content-center">
+                                    <ul class="pagination justify-content-center align-items-center">
+                                        <li class="page-item">
+                                            <a class="page-btn previous" href="javascript:void(0)"
+                                                aria-label="Previous">
+                                                <img src="assets/backend/images/icon/arrow-left.png" alt="icon">
+                                            </a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">1</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr active"
+                                                href="javascript:void(0)">2</a></li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">3</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">4</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a class="page-btn next" href="javascript:void(0)" aria-label="Next">
+                                                <img src="assets/backend/images/icon/arrow-right.png" alt="icon">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="past" role="tabpanel" aria-labelledby="past-tab">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-5.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-4.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Vedant Games Fall Classic</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-6.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>MLB Week</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-1.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>Rage Fan Challenge</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-2.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NBA Spotlight</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="single-item">
+                                    <div class="left-item">
+                                        <div class="logo-item">
+                                            <img src="assets/backend/images/icon/tournaments-logo-3.png" alt="icon">
+                                        </div>
+                                        <div class="mid-area">
+                                            <h3>NFL Week 11</h3>
+                                            <ul>
+                                                <li>
+                                                    <span><i class="far fa-calendar-alt"></i></span>
+                                                    NOV 27 23:00 - DEC 2 14:00
+                                                </li>
+                                                <li>
+                                                    <span><i class="fas fa-users"></i></span>
+                                                    43 PARTICIPANTS
+                                                </li>
+                                            </ul>
+                                            <p>Compete for a chance to win one of five special Rage Fan NFT prizes.</p>
+                                        </div>
+                                    </div>
+                                    <div class="last-item">
+                                        <h6>In Prizes</h6>
+                                        <h4>$2000</h4>
+                                        <span class="btn-border">
+                                            <a href="tournaments-details.html" class="cmn-btn">Join Now</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-60">
+                            <div class="col-lg-12 d-flex justify-content-center">
+                                <nav aria-label="Page navigation" class="d-flex justify-content-center">
+                                    <ul class="pagination justify-content-center align-items-center">
+                                        <li class="page-item">
+                                            <a class="page-btn previous" href="javascript:void(0)"
+                                                aria-label="Previous">
+                                                <img src="assets/backend/images/icon/arrow-left.png" alt="icon">
+                                            </a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">1</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr active"
+                                                href="javascript:void(0)">2</a></li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">3</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link xlr" href="javascript:void(0)">4</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a class="page-btn next" href="javascript:void(0)" aria-label="Next">
+                                                <img src="assets/backend/images/icon/arrow-right.png" alt="icon">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Games section end -->
 
 <!-- Betpop Up Modal start -->
 <div class="betpopmodal">
@@ -629,7 +983,7 @@
 					<div class="section-header text-center">
 						<h5 class="sub-title">Leading the Crypto bets escrow services</h5>
 						<h2 class="title">An Exhaustive list of Amazing Features</h2>
-						<p>Bitbetio is the most advanced sports crypto beting platform and highest stakes across
+						<p>Vedant Games is the most advanced sports crypto beting platform and highest stakes across
 							multiple bookmakers and exchanges.</p>
 					</div>
 				</div>
@@ -879,7 +1233,7 @@
 							<div class="accordion-item">
 								<h5 class="accordion-header" id="headingNine">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNight" aria-expanded="false" aria-controls="collapseNight">
-										How do I withdraw money from my Bitbetio Bets account?
+										How do I withdraw money from my Vedant Games Bets account?
 									</button>
 								</h5>
 								<div id="collapseNight" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionFaqs">

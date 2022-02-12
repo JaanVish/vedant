@@ -68,7 +68,7 @@
 							<div class="right-area header-action d-flex align-items-center max-un">
 
 
-								<?php if (1 != 1) : ?>
+								<?php if (1 == 1) : ?>
 									<button type="button" class="login" data-bs-toggle="modal" data-bs-target="#loginMod">
 										Login
 									</button>
@@ -182,36 +182,25 @@
 													</div>
 												</div>
 												<div class="form-area">
-													<form action="#">
+													<form action="login_check" method="post">
 														<div class="row">
 															<div class="col-12">
 																<div class="single-input">
 																	<label for="logemail">Email</label>
-																	<input type="text" id="logemail" placeholder="Email Address">
+																	<input type="email" id="logemail" placeholder="Email Address">
 																</div>
 																<div class="single-input">
 																	<label for="logpassword">Password</label>
-																	<input type="text" id="logpassword" placeholder="Email Password">
+																	<input type="password" id="logpassword" placeholder="Email Password">
 																</div>
 															</div>
 															<div class="col-12">
 																<div class="remember-me">
-																	<label class="checkbox-single d-flex align-items-center">
-																		<span class="left-area">
-																			<span class="checkbox-area d-flex">
-																				<input type="checkbox" checked="checked">
-																				<span class="checkmark"></span>
-																			</span>
-																			<span class="item-title d-flex align-items-center">
-																				<span>Remember Me</span>
-																			</span>
-																		</span>
-																	</label>
-																	<a href="javascript:void(0)">Forgot Password</a>
+																	<a href="javascript:void(0)">Forgot Password ?</a>
 																</div>
 															</div>
 															<span class="btn-border w-100">
-																<button class="cmn-btn w-100">LOGIN</button>
+																<button type="submit" class="cmn-btn w-100">LOGIN</button>
 															</span>
 														</div>
 													</form>
@@ -226,7 +215,7 @@
 										<div class="login-reg-content regMode">
 											<div class="modal-body">
 												<div class="head-area">
-													<h6 class="title">Register On Bitbetio</h6>
+													<h6 class="title">Register On Vedant Games</h6>
 													<div class="social-link d-flex align-items-center">
 														<a href="javascript:void(0)" class="active"><i class="fab fa-facebook-f"></i></a>
 														<a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
@@ -235,59 +224,33 @@
 													</div>
 												</div>
 												<div class="form-area">
-													<form action="#">
+													<form action="register" method="post">
 														<div class="row">
 															<div class="col-12">
 																<div class="single-input">
+																	<label for="name">Name</label>
+																	<input type="text" name="name" id="name" placeholder="Name">
+																</div>
+																<div class="single-input">
 																	<label for="regemail">Email</label>
-																	<input type="text" id="regemail" placeholder="Email Address">
+																	<input type="email" name="email" id="regemail" placeholder="Email Address">
 																</div>
 																<div class="single-input">
 																	<label for="regpassword">Password</label>
-																	<input type="text" id="regpassword" placeholder="Email Password">
+																	<input type="password" name="password" id="regpassword" placeholder="Email Password">
 																</div>
 																<div class="single-input">
-																	<label>Country</label>
-																	<select>
-																		<option value="1">United States</option>
-																		<option value="2">United Kingdom</option>
-																		<option value="3">Canada</option>
-																	</select>
-																</div>
-															</div>
-															<div class="col-12">
-																<div class="remember-me">
-																	<a href="javascript:void(0)">Have a referral
-																		code?</a>
+																	<label for="phone">Phone</label>
+																	<input type="tel" name="phone" id="phone" placeholder="Phone">
 																</div>
 															</div>
 															<span class="btn-border w-100">
-																<button class="cmn-btn w-100">SIGN UP</button>
+																<button type="submit" class="cmn-btn w-100">SIGN UP</button>
 															</span>
 														</div>
 													</form>
 													<div class="bottom-area text-center">
 														<p>Already have an member ? <a href="javascript:void(0)" class="log-btn">Login</a></p>
-													</div>
-													<div class="counter-area">
-														<div class="single">
-															<div class="icon-area">
-																<img src="assets/backend/images/icon/signup-counter-icon-1.png" alt="icon">
-															</div>
-															<div class="text-area">
-																<p>25,179k</p>
-																<p class="mdr">Bets</p>
-															</div>
-														</div>
-														<div class="single">
-															<div class="icon-area">
-																<img src="assets/backend/images/icon/signup-counter-icon-2.png" alt="icon">
-															</div>
-															<div class="text-area">
-																<p>6.65 BTC</p>
-																<p class="mdr">Total Won</p>
-															</div>
-														</div>
 													</div>
 												</div>
 											</div>

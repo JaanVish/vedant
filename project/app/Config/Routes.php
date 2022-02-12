@@ -34,7 +34,7 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/games', 'Home::games');
-$routes->get('/find-challenge', 'Home::challenges');
+$routes->get('/challenges', 'Home::challenges');
 $routes->get('/login', 'Home::login');
 $routes->get('/register', 'Home::register');
 $routes->get('/contact', 'Home::contact');

@@ -8,7 +8,13 @@ class UsersModel extends Model
 {
     protected $table = 'users';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['club','name','designation','email','member_id','members','zone','district','phone','doj','user_id','password'];
+    protected $allowedFields = [
+        'name',
+        'email',
+        'phone',
+        'password',
+        'status'
+    ];
 }
 
 ?>

@@ -68,7 +68,7 @@
 							<div class="right-area header-action d-flex align-items-center max-un">
 
 
-								<?php if (1 == 1) : ?>
+								<?php if (!session()->has('loggedUser')) : ?>
 									<button type="button" class="login" data-bs-toggle="modal" data-bs-target="#loginMod">
 										Login
 									</button>
@@ -187,13 +187,20 @@
 															<div class="col-12">
 																<div class="single-input">
 																	<label for="logemail">Email</label>
-																	<input type="email" id="logemail" placeholder="Email Address">
+																	<input type="email" id="logemail" name="email" placeholder="Email Address" value="<?= set_value('email') ?>">
 																</div>
 																<div class="single-input">
 																	<label for="logpassword">Password</label>
-																	<input type="password" id="logpassword" placeholder="Email Password">
+																	<input type="password" id="logpassword" name="password" placeholder="Email Password">
 																</div>
 															</div>
+															<?php if (isset($validation)) : ?>
+																<div class="col-12">
+																	<div class="alert alert-danger" role="alert">
+																		<?= $validation->listErrors() ?>
+																	</div>
+																</div>
+															<?php endif; ?>
 															<div class="col-12">
 																<div class="remember-me">
 																	<a href="javascript:void(0)">Forgot Password ?</a>

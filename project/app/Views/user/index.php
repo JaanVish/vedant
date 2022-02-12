@@ -33,7 +33,7 @@
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="buy-crypto-tab" data-bs-toggle="tab"
                                         data-bs-target="#buy-crypto" type="button" role="tab" aria-controls="buy-crypto"
-                                        aria-selected="false">buy crypto</button>
+                                        aria-selected="false">Create Challenge</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="affiliate-tab" data-bs-toggle="tab"
@@ -61,8 +61,7 @@
                         <div class="dashboard-sidebar">
                             <div class="single-item">
                                 <img src="assets/backend/images/profile-img-1.png" alt="images">
-                                <h5>Philip Dunn</h5>
-                                <p>ID: 32315145</p>
+                                <h5>Hi, <?=$_SESSION['name']; ?></h5>
                             </div>
                             <div class="balance">
                                 <div class="single-item">
@@ -490,12 +489,12 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <div class="main-content">
-                                                <h5>Buy cryptocurrency directly to your Bitbetio Account</h5>
-                                                <p>Once payment is completed, your cryptocurrency will be available in
-                                                    your Jugaro account within minutes</p>
+                                                <h5>Create a New Challenge</h5>
+                                                <!-- <p>Once payment is completed, your cryptocurrency will be available in
+                                                    your Jugaro account within minutes</p> -->
                                                 <div class="form-box">
-                                                    <p>1. Choose the crypto you wish to buy, enter the amount, and
-                                                        choose your favorite payment method.</p>
+                                                    <!-- <p>1. Choose the crypto you wish to buy, enter the amount, and
+                                                        choose your favorite payment method.</p> -->
                                                     <form action="#">
                                                         <div class="row">
                                                             <div class="col-6">
@@ -503,21 +502,26 @@
                                                                     <label>Buy</label>
                                                                     <div class="input-area">
                                                                         <select>
-                                                                            <option value="1">BTC</option>
-                                                                            <option value="2">ETH</option>
-                                                                            <option value="3">LTC</option>
+                                                                            <?php foreach( $gameslist as $game ): ?>
+                                                                            <option value="<?=$game?>"><?=$game?></option>
+                                                                            <?php endforeach;?>
+                                                                            
                                                                         </select>
+                                                                       
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="col-6">
                                                                 <div class="input-single">
-                                                                    <label>Payment Methods</label>
+                                                                    <label>Participants</label>
                                                                     <div class="input-area">
                                                                         <select>
-                                                                            <option value="1">Visa</option>
-                                                                            <option value="2">Credit</option>
-                                                                            <option value="3">Master</option>
+                                                                            <option value="" disabled selected>Select</option>
+                                                                            <option value="2">2</option>
+                                                                            <option value="3">3</option>
+                                                                            <option value="4">4</option>
+                                                                            <option value="5">5</option>
+                                                                            <option value="6">6</option>
                                                                         </select>
                                                                     </div>
                                                                 </div>

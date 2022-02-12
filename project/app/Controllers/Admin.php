@@ -4,8 +4,9 @@ namespace App\Controllers;
 
 class Admin extends BaseController
 {
-    public function __construct(){
-        helper(['url','form']);
+    public function __construct()
+    {
+        helper(['url', 'form']);
     }
     public function index()
     {

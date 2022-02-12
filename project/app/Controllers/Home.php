@@ -4,6 +4,11 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+	public function __construct()
+	{
+		helper(['url', 'form']);
+	}
+
 	public function index()
 	{
 		return view('front/index');
@@ -37,5 +42,10 @@ class Home extends BaseController
 	public function privacy()
 	{
 		return view('front/privacy-policy');
+	}
+
+	public function faqs()
+	{
+		return view('front/faqs');
 	}
 }

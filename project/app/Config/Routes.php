@@ -35,11 +35,12 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('/games', 'Home::games');
 $routes->get('/challenges', 'Home::challenges');
-$routes->get('/login', 'Home::login');
-$routes->get('/register', 'Home::register');
+$routes->post('/login_check', 'Login::login_check');
+$routes->post('/register', 'Login::register');
 $routes->get('/contact', 'Home::contact');
 $routes->get('/dashboard', 'User::dashboard');
 $routes->get('/auth', 'Auth::index');
+$routes->get('/faqs', 'Home::faqs');
 
 
 /*

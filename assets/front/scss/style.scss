@@ -1,0 +1,30 @@
+/*============================================ 
+# Template Name: Bitips
+# Version: 1.0
+# Date: 11/12/2021
+# Author: pixelaxis
+# Author URI: https://themeforest.net/user/pixelaxis/portfolio
+# Developed By: Pranto
+# Description: Prediction Tips & Tipster Platform HTML Template
+============================================*/
+
+/*============================================ 
+======== Table of Css Content =========
+# Typography
+# Normalize 
+# Global style
+# Header Area
+# Banner Area
+# Section Area
+# Footer Area
+============================================*/
+
+// Sass Global
+@import "main/_global.scss";
+
+// Pages
+@import "pages/_banner-footer.scss";
+@import "pages/_section.scss";
+
+// Responsive Area
+@import "main/_responsive.scss";

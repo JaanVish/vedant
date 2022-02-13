@@ -56,8 +56,8 @@
 								<li class="nav-item dropdown main-navbar">
 									<a class="nav-link dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-auto-close="outside">Pages</a>
 									<ul class="dropdown-menu main-menu shadow">
-										<li><a class="nav-link" href="privacy-policy">Privacy Policy</a></li>
-										<li><a class="nav-link" href="terms-conditions">Terms Conditions</a></li>
+										<li><a class="nav-link" href="privacy">Privacy Policy</a></li>
+										<li><a class="nav-link" href="terms">Terms Conditions</a></li>
 										<li><a class="nav-link" href="faqs">Faqs</a></li>
 									</ul>
 								</li>
@@ -82,7 +82,7 @@
 											<span class="user-profile">
 												<img src="assets/backend/images/dashboard-profile-1.png" alt="icon">
 											</span>
-											<span class="name-area">Jonh</span>
+											<span class="name-area"><?=$_SESSION['name']; ?></span>
 											<i class="icon-c-down-arrow"></i>
 										</div>
 										<div class="main-area user-content">
@@ -91,16 +91,16 @@
 													<img src="assets/backend/images/dashboard-profile-2.png" alt="icon">
 												</div>
 												<div class="text-area">
-													<h5>John Doe</h5>
-													<div class="d-flex align-items-center">
+													<h5><?=$_SESSION['name']; ?></h5>
+													<!-- <div class="d-flex align-items-center">
 														<img src="assets/backend/images/icon/calendar-icon-2.png" alt="icon">
-														<span>Joined Oct, 2021</span>
-													</div>
+														 <span>Joined Oct, 2021</span> 
+													</div> -->
 												</div>
 											</div>
 											<ul>
 												<li class="border-area">
-													<a href="javascript:void(0)" class="active">
+													<a href="user/#dashboard" class="active">
 														<img src="assets/backend/images/icon/dashboard-icon.png" alt="icon">
 														<p class="mdr">Dashboard</p>
 													</a>
@@ -304,10 +304,10 @@
 							<ul class="footer-link">
 								<li><a href="home">Home</a></li>
 								<li><a href="about">About</a></li>
-								<li><a href="support-help">Support</a></li>
+								<!-- <li><a href="support-help">Support</a></li> -->
 								<li><a href="contact">Contact</a></li>
-								<li><a href="terms-conditions">Terms of Services</a></li>
-								<li><a href="privacy-policy">Privacy</a></li>
+								<li><a href="terms">Terms of Services</a></li>
+								<li><a href="privacy">Privacy</a></li>
 							</ul>
 						</div>
 					</div>

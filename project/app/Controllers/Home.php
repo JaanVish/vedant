@@ -36,16 +36,26 @@ class Home extends BaseController
 
 	public function terms()
 	{
-		return view('front/terms-and-condition');
+		return view('front/terms');
 	}
 
 	public function privacy()
 	{
-		return view('front/privacy-policy');
+		return view('front/privacy');
 	}
-
 	public function faqs()
 	{
 		return view('front/faqs');
 	}
+
+	function logout()
+    {
+        if (session()->has('loggedUser')) {
+            session()->remove('loggedUser');
+            return redirect()->to('/')->with('fail', 'You are logged out');
+        } else {
+            session()->remove('loggedUser');
+            return redirect()->to('/')->with('fail', 'You are logged out');
+        }
+    }
 }

@@ -6,7 +6,7 @@
     <section class="banner-section inner-banner contact">
         <div class="overlay">
             <div class="shape-area">
-                <img src="assets/images/contact-illus.png" class="contact-illu" alt="image">
+                <img src="assets/backend/images/contact-illus.png" class="contact-illu" alt="image">
             </div>
             <div class="banner-content">
                 <div class="container">

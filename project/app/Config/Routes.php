@@ -41,6 +41,9 @@ $routes->get('/contact', 'Home::contact');
 $routes->get('/dashboard', 'User::dashboard');
 $routes->get('/auth', 'Auth::index');
 $routes->get('/faqs', 'Home::faqs');
+$routes->get('/privacy', 'Home::privacy');
+$routes->get('/terms', 'Home::terms');
+$routes->get('/logout', 'Home::logout');
 
 
 /*

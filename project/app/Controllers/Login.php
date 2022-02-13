@@ -91,15 +91,4 @@ class Login extends BaseController
             }
         }
     }
-
-    function logout()
-    {
-        if (session()->has('loggedUser')) {
-            session()->remove('loggedUser');
-            return redirect()->to('/home')->with('fail', 'You are logged out');
-        } else {
-            session()->remove('loggedUser');
-            return redirect()->to('/home')->with('fail', 'You are logged out');
-        }
-    }
 }

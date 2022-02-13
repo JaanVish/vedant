@@ -30,105 +30,119 @@
     <!-- Scroll To Top End -->
 
 
-    <!-- header-section start -->
-    <header class="header-section user-dashboard">
-        <div class="overlay">
-            <div class="container">
-                <div class="row d-flex header-area">
-                    <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="home">
-                            <img src="assets/backend/images/logo.png" class="logo" alt="logo">
-                        </a>
-                        <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content">
-                            <i class="fas fa-bars"></i>
-                        </button>
-                        <div class="collapse navbar-collapse justify-content-end" id="navbar-content">
-                            <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
-                                <li class="nav-item">
-                                    <a class="nav-link" aria-current="page" href="home">Home</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" aria-current="page" href="games">Games</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" aria-current="page" href="challenges">Challenges</a>
-                                </li>
-                                <li class="nav-item dropdown main-navbar">
-                                    <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-auto-close="outside">Pages</a>
-                                    <ul class="dropdown-menu main-menu shadow">
-                                        <li><a class="nav-link" href="privacy-policy">Privacy Policy</a></li>
-                                        <li><a class="nav-link" href="terms-conditions">Terms Conditions</a></li>
-                                        <li><a class="nav-link" href="faqs">Faqs</a></li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact">Contact</a>
-                                </li>
-                            </ul>
-                            <div class="right-area header-action d-flex align-items-center max-un">
-                                <div class="single-item user-area">
-                                    <div class="user-btn d-flex align-items-center">
-                                        <span class="user-profile">
-                                            <img src="assets/backend/images/dashboard-profile-1.png" alt="icon">
-                                        </span>
-                                        <span class="name-area">Jonh</span>
-                                        <i class="icon-c-down-arrow"></i>
-                                    </div>
-                                    <div class="main-area user-content">
-                                        <div class="head-area d-flex">
-                                            <div class="img-area">
-                                                <img src="assets/backend/images/dashboard-profile-2.png" alt="icon">
-                                            </div>
-                                            <div class="text-area">
-                                                <h5>John Doe</h5>
-                                                <div class="d-flex align-items-center">
-                                                    <img src="assets/backend/images/icon/calendar-icon-2.png" alt="icon">
-                                                    <span>Joined Oct, 2021</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <ul>
-                                            <li class="border-area">
-                                                <a href="javascript:void(0)" class="active">
-                                                    <img src="assets/backend/images/icon/dashboard-icon.png" alt="icon">
-                                                    <p class="mdr">Dashboard</p>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)">
-                                                    <img src="assets/backend/images/icon/subscriptions-icon.png" alt="icon">
-                                                    <p class="mdr">My Subscriptions</p>
-                                                </a>
-                                            </li>
-                                            <li class="border-area">
-                                                <a href="javascript:void(0)">
-                                                    <img src="assets/backend/images/icon/settings-icon.png" alt="icon">
-                                                    <p class="mdr">Accountring Settings</p>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)">
-                                                    <img src="assets/backend/images/icon/memberships-icon.png" alt="icon">
-                                                    <p class="mdr">Manage Memberships</p>
-                                                </a>
-                                            </li>
-                                            <li class="border-area">
-                                                <a href="javascript:void(0)">
-                                                    <img src="assets/backend/images/icon/history-icon.png" alt="icon">
-                                                    <p class="mdr">Transaction History</p>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- header-section end -->
+	<!-- header-section start -->
+	<header class="header-section user-dashboard">
+		<div class="overlay">
+			<div class="container">
+				<div class="row d-flex header-area">
+					<nav class="navbar navbar-expand-lg navbar-light">
+						<a class="navbar-brand" href="home">
+							<img src="assets/backend/images/logo.png" class="logo" alt="logo">
+						</a>
+						<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content">
+							<i class="fas fa-bars"></i>
+						</button>
+						<div class="collapse navbar-collapse justify-content-end" id="navbar-content">
+							<ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+								<li class="nav-item">
+									<a class="nav-link" aria-current="page" href="home">Home</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" aria-current="page" href="games">Games</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" aria-current="page" href="challenges">Challenges</a>
+								</li>
+								<li class="nav-item dropdown main-navbar">
+									<a class="nav-link dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown" data-bs-auto-close="outside">Pages</a>
+									<ul class="dropdown-menu main-menu shadow">
+										<li><a class="nav-link" href="privacy">Privacy Policy</a></li>
+										<li><a class="nav-link" href="terms">Terms Conditions</a></li>
+										<li><a class="nav-link" href="faqs">Faqs</a></li>
+									</ul>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="contact">Contact</a>
+								</li>
+							</ul>
+							<div class="right-area header-action d-flex align-items-center max-un">
+
+
+								<?php if (!session()->has('loggedUser')) : ?>
+									<button type="button" class="login" data-bs-toggle="modal" data-bs-target="#loginMod">
+										Login
+									</button>
+									<button type="button" class="cmn-btn reg" data-bs-toggle="modal" data-bs-target="#loginMod">
+										Sign Up
+									</button>
+								<?php else : ?>
+
+									<div class="single-item user-area">
+										<div class="user-btn d-flex align-items-center">
+											<span class="user-profile">
+												<img src="assets/backend/images/dashboard-profile-1.png" alt="icon">
+											</span>
+											<span class="name-area"><?=$_SESSION['name']; ?></span>
+											<i class="icon-c-down-arrow"></i>
+										</div>
+										<div class="main-area user-content">
+											<div class="head-area d-flex">
+												<div class="img-area">
+													<img src="assets/backend/images/dashboard-profile-2.png" alt="icon">
+												</div>
+												<div class="text-area">
+													<h5><?=$_SESSION['name']; ?></h5>
+													<!-- <div class="d-flex align-items-center">
+														<img src="assets/backend/images/icon/calendar-icon-2.png" alt="icon">
+														 <span>Joined Oct, 2021</span> 
+													</div> -->
+												</div>
+											</div>
+											<ul>
+												<li class="border-area">
+													<a href="user/#dashboard" class="active">
+														<img src="assets/backend/images/icon/dashboard-icon.png" alt="icon">
+														<p class="mdr">Dashboard</p>
+													</a>
+												</li>
+												<li>
+													<a href="javascript:void(0)">
+														<img src="assets/backend/images/icon/subscriptions-icon.png" alt="icon">
+														<p class="mdr">My Subscriptions</p>
+													</a>
+												</li>
+												<li class="border-area">
+													<a href="javascript:void(0)">
+														<img src="assets/backend/images/icon/settings-icon.png" alt="icon">
+														<p class="mdr">Accountring Settings</p>
+													</a>
+												</li>
+												<li>
+													<a href="javascript:void(0)">
+														<img src="assets/backend/images/icon/memberships-icon.png" alt="icon">
+														<p class="mdr">Manage Memberships</p>
+													</a>
+												</li>
+												<li class="border-area">
+													<a href="javascript:void(0)">
+														<img src="assets/backend/images/icon/history-icon.png" alt="icon">
+														<p class="mdr">Transaction History</p>
+													</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								<?php endif; ?>
+
+
+							</div>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- header-section end -->
 
 
     <?= $this->renderSection('content') ?>
@@ -162,10 +176,10 @@
                             <ul class="footer-link">
                                 <li><a href="home">Home</a></li>
                                 <li><a href="about">About</a></li>
-                                <li><a href="support-help">Support</a></li>
+                                <!-- <li><a href="support-help">Support</a></li> -->
                                 <li><a href="contact">Contact</a></li>
-                                <li><a href="terms-conditions">Terms of Services</a></li>
-                                <li><a href="privacy-policy">Privacy</a></li>
+                                <li><a href="terms">Terms of Services</a></li>
+                                <li><a href="privacy">Privacy</a></li>
                             </ul>
                         </div>
                     </div>
